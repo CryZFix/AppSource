@@ -19,6 +19,14 @@
       "versionDate": "2026-07-23",
       "downloadURL": "https://raw.githubusercontent.com/CryZFix/AppSource/main/ipas/Ksign.ipa",
       "size": 17103029
+    },
+    {
+      "name": "Photomath",
+      "bundleIdentifier": "com.microblink.PhotoMath",
+      "version": "8.34.1",
+      "versionDate": "2026-07-23",
+      "downloadURL": "https://raw.githubusercontent.com/CryZFix/AppSource/main/ipas/Photomath.ipa",
+      "size": 19091898
     }
   ],
   "news": []
