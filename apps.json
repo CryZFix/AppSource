@@ -1,0 +1,25 @@
+{
+  "name": "LiveContainer Store",
+  "identifier": "com.github.cryzfix",
+  "subtitle": "List of applications for personal use",
+  "description": "Collection of applications for LiveContainer",
+  "apps": [
+    {
+      "name": "GIF Creator",
+      "bundleIdentifier": "com.smoothmobile.gifcreator",
+      "version": "4.9.2",
+      "versionDate": "2026-07-23",
+      "downloadURL": "https://raw.githubusercontent.com/CryZFix/AppSource/main/ipas/GIF Creator.ipa",
+      "size": 19219870
+    },
+    {
+      "name": "Ksign",
+      "bundleIdentifier": "nya.asami.ksign",
+      "version": "1.3.2",
+      "versionDate": "2026-07-23",
+      "downloadURL": "https://raw.githubusercontent.com/CryZFix/AppSource/main/ipas/Ksign.ipa",
+      "size": 17103029
+    }
+  ],
+  "news": []
+}
